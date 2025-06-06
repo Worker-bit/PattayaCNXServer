@@ -54,7 +54,7 @@ button{
 .show {display: block;}
 .modal {
   container: fixed;
-  background-color: #FFE4C9;
+  background-color: #0000;
   border: 2px solid #FFC082;
   border-radius: 5px;
   width: 50%;
